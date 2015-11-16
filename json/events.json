@@ -1,0 +1,19 @@
+{
+	 "events": [
+		{
+			"product": "Apple", 
+			"price": "$10",
+			"productimage":"images/apple.png"
+			},
+		{
+			"product": "Banana",
+		 	"price": "$12",
+		  	"productimage":"images/banana.png"
+		  },
+		{
+			"product": "Orange",
+		 	"price": "$8",
+		  	"productimage":"images/orange.png"
+		}
+	]
+}
